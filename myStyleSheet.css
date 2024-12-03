@@ -1,0 +1,21 @@
+body
+{
+  font-family: sans-serif;
+  color: red;
+  background-color: yellow;
+}
+
+.MyBoxStyle
+{
+  width: 50%;
+  height: 250px;
+  border: 1px black solid;
+}
+
+#Box1
+{
+border: 2px red solid;
+}
+
+
+
